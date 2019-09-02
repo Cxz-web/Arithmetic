@@ -1,4 +1,4 @@
 # 一起来刷算法
 
-[百度](arithmetic-contents/primary.md)
+[基础算法篇](arithmetic-contents/primary.md)
 
